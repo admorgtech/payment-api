@@ -1,0 +1,11 @@
+# Backend
+/src/main/java/ @backend-team
+
+# Security
+/src/main/java/**/security/ @security-team
+
+# Infrastructure
+/.github/ @devops-team
+
+# Kubernetes
+/k8s/ @devops-team
